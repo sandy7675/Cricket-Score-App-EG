@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="testveiw1">#00DDFF</color>
+    <color name="b1">#00DDFF</color>
+    <color name="b2">#00DDFF</color>
+    <color name="b3">#00DDFF</color>
+    <color name="b4">#00DDFF</color>
+    <color name="b5">#00DDFF</color>
+    <color name="b6">#00DDFF</color>
+    <color name="b7">#00DDFF</color>
+    <color name="b21">#00DDFF</color>
+    <color name="b22">#00DDFF</color>
+    <color name="b23">#00DDFF</color>
+    <color name="b24">#00DDFF</color>
+    <color name="b25">#00DDFF</color>v
+    <color name="b26">#00DDFF</color>
+    <color name="b27">#00DDFF</color>
+</resources>

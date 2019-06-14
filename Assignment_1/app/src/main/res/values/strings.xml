@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment_1</string>
+    <string name="v1">India vs Pak</string>
+    <string name="text_view1">Dhoni</string>
+    <string name="text_view2">Kohli</string>
+    <string name="s1">48(20)</string>
+    <string name="s2">49(25)*</string>
+    <string name="score">IND:252/2</string>
+    <string name="over">Over:32.2</string>
+    <string name="bolwer">M.Amir</string>
+    <string name="b1">6</string>
+    <string name="b2">4</string>
+    <string name="b3">3</string>
+    <string name="b4">2</string>
+    <string name="b5">1</string>
+    <string name="b6">0</string>
+    <string name="b7">W</string>
+    <string name="b21">6</string>
+    <string name="b22">4</string>
+    <string name="b23">3</string>
+    <string name="b24">2</string>
+    <string name="b25">1</string>
+    <string name="b26">0</string>
+    <string name="b27">W</string>
+</resources>
